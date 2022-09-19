@@ -1,6 +1,8 @@
 Given input data (a text file), output each household and number of occupants, followed by: each first name, last name, address and age sorted by last name
 then first name where the occupant(s) is older than 18
 
+To run the program with the input data below, type "input_data/expeditors.txt" when prompted by the console.
+
 EXAMPLE
 
 Input data:
